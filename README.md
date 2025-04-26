@@ -1,6 +1,6 @@
 # juniOrDB
 
-A simple file-based Node.js database system made by [YourNameHere]!
+A simple file-based Node.js database system made by r0cu!
 
 ## How to Download (PowerShell)
 
